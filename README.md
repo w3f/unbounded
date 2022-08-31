@@ -6,6 +6,8 @@ Unbounded by both name and nature, it is available in six display weights rangin
 
 Unbounded is the product of a joint collaboration between [Studio Koto](https://koto.studio/), [NaN](https://www.nan.xyz/), [Parity Technologies](https://parity.io/) and [Web3 Foundation](https://www.web3.foundation/) for [Polkadot Network](https://polkadot.network).
 
+[unbounded.polkadot.network](unbounded.polkadot.network/)
+
 ![Unbounded preview](./Unbounded.gif)
 
 ## License
@@ -15,5 +17,3 @@ This Font Software is licensed under the SIL Open Font License, Version 1.1. Thi
 ## Authors
 
 [NaN.xyz](https://www.nan.xyz/), Luke Prowse, Jean-Baptiste Morizot, Fátima Lázaro, Florian Runge. Contact: [info@nan.xyz](mailto:info@nan.xyz/)
-
-[unbounded.polkadot.network](unbounded.polkadot.network/)
