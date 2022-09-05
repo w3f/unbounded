@@ -6,7 +6,7 @@ Unbounded by both name and nature, it is available in six display weights rangin
 
 Unbounded is the product of a joint collaboration between [Studio Koto](https://koto.studio/), [NaN](https://www.nan.xyz/), [Parity Technologies](https://parity.io/) and [Web3 Foundation](https://www.web3.foundation/) for [Polkadot Network](https://polkadot.network).
 
-[unbounded.polkadot.network](unbounded.polkadot.network/)
+[unbounded.polkadot.network](https://unbounded.polkadot.network/)
 
 ![Unbounded preview](./Unbounded.gif)
 
