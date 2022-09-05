@@ -12,7 +12,7 @@ Unbounded is the product of a joint collaboration between [Studio Koto](https://
 
 ## License
 
-This Font Software is licensed under the SIL Open Font License, Version 1.1. This license is copied below, and is also available with a FAQ [here](https://scripts.sil.org/OFL).
+This Font Software is licensed under the SIL Open Font License, Version 1.1. This license is available with a FAQ [here](https://scripts.sil.org/OFL).
 
 ## Authors
 
