@@ -17,3 +17,5 @@ This Font Software is licensed under the SIL Open Font License, Version 1.1. Thi
 ## Authors
 
 [NaN.xyz](https://www.nan.xyz/), Luke Prowse, Jean-Baptiste Morizot, Fátima Lázaro, Florian Runge. Contact: [info@nan.xyz](mailto:info@nan.xyz/)
+
+Unbounded was developed using GlyphsApp.
